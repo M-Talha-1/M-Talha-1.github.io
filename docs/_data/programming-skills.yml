@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Data Analysis
+  percentage: 95
   color: danger
 
-- name: Go
+- name: Data Visualization
   percentage: 80
   color:
 
-- name: Python
-  percentage: 70
+- name: Data Preprocessing
+  percentage: 85
   color: secondary
+
+  - name: Machine Learning
+  percentage: 90
+  color: info
+
+  - name: Feature Engineering
+  percentage: 87
+  color: success
