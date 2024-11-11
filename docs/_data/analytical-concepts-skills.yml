@@ -1,23 +1,23 @@
-- name:  Data Gathering
+- name: Data Gathering
   percentage: 70
   color: secondary
   
-  - name: Data Cleaning
+- name: Data Cleaning
   percentage: 85
   color: success
   
-  - name: Data Transformation
+- name: Data Transformation
   percentage: 80
   color: danger
-
-  - name: Data Modeling
+  
+- name: Data Modeling
   percentage: 95
   color: warning
   
-  - name:  Data Visualization
+- name: Data Visualization
   percentage: 90
   color: info
-
-  - name:  Data Analysis
+  
+- name: Data Analysis
   percentage: 95
   color: dark
