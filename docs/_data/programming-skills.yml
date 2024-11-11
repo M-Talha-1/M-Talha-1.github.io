@@ -4,7 +4,7 @@
 
 - name: Data Visualization
   percentage: 80
-  color:
+  color: warning
 
 - name: Data Preprocessing
   percentage: 85
