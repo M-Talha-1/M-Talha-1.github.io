@@ -24,7 +24,7 @@
   
 - name: Data Analysis
   percentage: 95
-  color: dark
+  color: success
 
 - name: Data Storytelling
   percentage: 85
