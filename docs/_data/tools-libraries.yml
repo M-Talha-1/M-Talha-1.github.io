@@ -14,7 +14,7 @@
   percentage: 87
   color: secondary
 
-- name: Selenium | Scrapy |BeautifulSoup
+- name: Selenium | Scrapy |BS4
   percentage: 87
   color: light
 
