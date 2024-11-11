@@ -10,10 +10,10 @@
   percentage: 85
   color: secondary
 
-  - name: Machine Learning
+- name: Machine Learning
   percentage: 90
   color: info
 
-  - name: Feature Engineering
+- name: Feature Engineering
   percentage: 87
   color: success
