@@ -1,16 +1,21 @@
 - title: Bachelor of Science in Computer Science, Superior University
+  firm: Superior University
   from: 2021
   to: Present
+  location: Lahore, Pakistan
   description: null
 
 - title: Power BI Developer, Meesh Consulting Ltd, UK
+  firm: Meesh Consulting Ltd
   from: Oct 2023
   to: Oct 2024
+  location: UK
   description: |
     • Led development and implementation of Power BI dashboards, resulting in a 20% increase in data accuracy and improved decision-making process for business.
     • Collaborated with cross-functional teams to create interactive Power BI reports, leading to a 15% reduction in data processing time and enhanced data visualization for stakeholders.
     • Utilized advanced DAX functions and data modeling techniques to optimize Power BI performance, resulting in 25% faster report generation and improved user experience.
 - title: Python Developer Intern, Codeaza Technologies
+  firm: Codeaza Technologies
   from: Jun 2023
   to: Aug 2023
   location: Rawalpindi, Pakistan
