@@ -8,4 +8,3 @@ permalink: /
 https://bit.ly/2BBbVhc
 https://bit.ly/2DOtxXB
 {% endcapture %}
-{% include elements/carousel.html %}
